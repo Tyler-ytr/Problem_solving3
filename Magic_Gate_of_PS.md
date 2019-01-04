@@ -8,3 +8,10 @@
 
 
 ---
+
+## 贪心算法
+### 传送门
+[初步了解贪心算法](https://mengzelev.github.io/2018/09/17/clrs-16greedy/)
+[贪心算法的证明](https://blog.csdn.net/TheSnowBoy_2/article/details/73385652)
+证明还可以看定理16.1
+
