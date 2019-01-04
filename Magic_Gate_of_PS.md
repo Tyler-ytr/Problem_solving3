@@ -15,6 +15,7 @@
 [贪心算法的证明](https://blog.csdn.net/TheSnowBoy_2/article/details/73385652)
 证明还可以看定理16.1
 
-## 聚合分析
+## 摊还分析
 ### 传送门
 [玄学分析玄学看](https://blog.csdn.net/gqtcgq/article/details/45599479)
+大概核算法和聚合就足够了。。这辈子不指望看懂势能法了
