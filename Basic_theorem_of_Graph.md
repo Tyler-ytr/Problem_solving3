@@ -5,13 +5,13 @@
 # 一、引言
 ---
 ## 图与图模型
-+ 图(graph)G是由有限非空集合V及其二元子集E 构成,其中V中元素称为顶点(vertex), E 中元素称为边(edge)； 集合V和E分别称为G的顶点集(vertex set)和边集(edge set)。
-+  如果uv是图G的边, 那么就称u和v在G 中是邻接的(adjacent). G中的顶点数和边数分别称为该图的阶(order)和边数(size) .
++ 图(graph)G是由有限非空集合V及其二元子集E构成,其中V中元素称为顶点(vertex), E中元素称为边(edge)；集合V和E分别称为G的顶点集(vertex set)和边集(edge set)。
++  如果uv是图G的边, 那么就称u和v在G中是邻接的(adjacent). G中的顶点数和边数分别称为该图的阶(order)和边数(size) .
 
 ---
 ## 连通图
 + 诱导子图(induced subgraph):设图F是图G的一个子图． 对于F中的任意顶点u和v, 只要uv是G 中的边, 则uv一定是F中的边,
-+ 链(walk):G中一条u-v链(walk) W 即为G 的一个顶点序列,满足:从u出发,到v结束,且续的顶点是邻接的．换句话说,可以把W表述成:
++ 链(walk):G中一条u-v链(walk) W 即为G 的一个顶点序列,满足:从u出发,到v结束,且图的顶点是邻接的．换句话说,可以把W表述成:
 $$ W: u=\nu _{0} ,\nu_{1},.....\nu_{k}=\nu $$
 链的长度(length): 一条链所经过的边的总数(包括边重复出现的次数)
 平凡链(trivial walk):长度为0;
