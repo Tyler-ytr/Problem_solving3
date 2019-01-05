@@ -1,6 +1,7 @@
 # 图的基本定理
 ###### 南京大学匡亚明学院 殷天润制作
 (编辑环境是MPE)
+[源码](https://github.com/larryytr/Problem_solving3/blob/master/Basic_theorem_of_Graph.md)
 # 一、引言
 ---
 ## 图与图模型
