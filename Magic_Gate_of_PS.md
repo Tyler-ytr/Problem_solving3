@@ -19,3 +19,11 @@
 ### 传送门
 [玄学分析玄学看](https://blog.csdn.net/gqtcgq/article/details/45599479)
 大概核算法和聚合就足够了。。这辈子不指望看懂势能法了
+
+## 图的基本概念
+[请左转](https://github.com/larryytr/Problem_solving3/blob/master/Basic_theorem_of_Graph.md)
+记得mpe编译,(其他也有可能可以)
+
+## 并查集
+[无证明但是挺有用的](https://blog.csdn.net/lalor/article/details/7388524)
+
