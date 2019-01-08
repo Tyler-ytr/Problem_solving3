@@ -21,9 +21,22 @@
 大概核算法和聚合就足够了。。这辈子不指望看懂势能法了
 
 ## 图的基本概念
+### 传送门
 [请左转](https://github.com/larryytr/Problem_solving3/blob/master/Basic_theorem_of_Graph.md)
 记得mpe编译,(其他也有可能可以)
 
 ## 并查集
+### 传送门
 [无证明但是挺有用的](https://blog.csdn.net/lalor/article/details/7388524)
 
+## 树与MST
+### 传送门
+[基本概念我吹爆何伟](https://marukohe.github.io/2018/10/13/%E5%9B%BE%E8%AE%BA/)
+[prim算法](https://www.cnblogs.com/dzkang2011/p/prim_1.html)
+[kruskal算法](https://www.cnblogs.com/dzkang2011/p/kruskal.html)
+
+## 图的表示和bfs,dfs
+## 传送门
+[邻接表的原理](http://blog.51cto.com/ahalei/1391988)
+[邻接表的实现](https://blog.csdn.net/yexiaohhjk/article/details/52706057)
+[颇有启发的bfs,dfs](https://blog.csdn.net/u011437229/article/details/53188837)
