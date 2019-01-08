@@ -36,7 +36,14 @@
 [kruskal算法](https://www.cnblogs.com/dzkang2011/p/kruskal.html)
 
 ## 图的表示和bfs,dfs
-## 传送门
+### 传送门
 [邻接表的原理](http://blog.51cto.com/ahalei/1391988)
 [邻接表的实现](https://blog.csdn.net/yexiaohhjk/article/details/52706057)
 [颇有启发的bfs,dfs](https://blog.csdn.net/u011437229/article/details/53188837)
+
+## 单源最短路
+### 传送门
+[BF算法使用edge结构体](https://blog.csdn.net/niushuai666/article/details/6791765)
+[BF算法使用map](https://blog.csdn.net/wingahi/article/details/18889449)
+[dijkstra算法了解](https://www.cnblogs.com/gaochundong/p/dijkstra_algorithm.html)
+[dijsktra板子超香！](https://blog.csdn.net/qq_31975227/article/details/61422288)
